@@ -4,7 +4,7 @@ About
 
 For this Python Implementation of the AlphaZero Model of GoogleDeepMind I combined the results of two other repositories(https://github.com/DylanSnyder31/AlphaZero-Chess and https://github.com/Zeta36/chess-alpha-zero)
 
-I used the repository from Zeta36 for the setup of the Self Play, Optimizing and Evaluation Process of the Model. For interaction with a GUI i used the Implementation of DylanSynder31.
+I used the repository from Zeta36 for the setup of the Self Play, Optimizing and Evaluation Process of the Model. For interaction with a GUI I used the Implementation of DylanSynder31.
 
 You can Genrate new Self-Played Games with 
 
