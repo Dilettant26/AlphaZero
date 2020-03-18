@@ -1,0 +1,9 @@
+
+kivy.deps.sdl2 == 0.1.18
+tensorflow-gpu
+keras
+profilehooks
+numpy
+pyperclip
+python-chess
+h5py
